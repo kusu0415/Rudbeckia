@@ -1,2 +1,3 @@
 # Rudbeckia
-study 
+金沢箔専門オンラインショップ 
+ProjectN
