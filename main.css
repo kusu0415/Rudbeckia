@@ -172,7 +172,7 @@ table {
 
 a:link {
     text-decoration: none;
-    color: rgb(53, 39, 31)
+    color: #ffffff
 }
 
 a:visited {
@@ -7318,7 +7318,7 @@ button.swiper-pagination-bullet {
 
 .topCombinationSearchSection__title {
     font-size: 16px;
-    color: #fffbf5;
+    color: #212121;
     line-height: 33px;
     font-weight: 700;
     margin-bottom: 16px;
