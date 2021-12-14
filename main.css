@@ -5997,7 +5997,7 @@ img[data-src] {
 
 .productItem__price {
     font-size: 10px 
-    color #fffbef;
+    color #ffffff;
 }
 
 .productItem__soldOut {
@@ -10780,7 +10780,7 @@ button.swiper-pagination-bullet {
 
 .christmasProductItem__price {
     font-size: 24px;
-    color: #212121;
+    color: #ffffff;
     font-weight: 700;
     font-family: YuGothic
 }
@@ -18220,7 +18220,7 @@ button.swiper-pagination-bullet {
     vertical-align: middle;
     font-size: 14px;
     line-height: 20px;
-    color: #212121;
+    color: #ffffff;
     margin-bottom: 8px
 }
 
@@ -18239,7 +18239,7 @@ button.swiper-pagination-bullet {
     height: 51px;
     font-size: 12px;
     line-height: 17px;
-    color: #212121;
+    color: #ffffff;
     margin-bottom: 8px;
     overflow: hidden
 }
@@ -18639,7 +18639,7 @@ button.swiper-pagination-bullet {
     display: inline-block;
     vertical-align: middle;
     font-size: 20px;
-    color: #212121;
+    color: #ffffff;
     font-weight: 700;
     font-family: YuGothic
 }
@@ -22269,7 +22269,7 @@ button:focus {
 
 .birthdayProductItem__title {
     font-size: 12px;
-    color: #212121;
+    color: #ffffff;
     font-weight: 700;
     margin-bottom: 12px;
     height: 36px;
@@ -22278,7 +22278,7 @@ button:focus {
 
 .birthdayProductItem__price {
     font-size: 24px;
-    color: #212121;
+    color: #ffffff;
     font-weight: 700;
     font-family: YuGothic
 }
@@ -22718,7 +22718,7 @@ button:focus {
     display: inline-block;
     vertical-align: middle;
     font-size: 20px;
-    color: #212121;
+    color: #ffffff;
     font-weight: 700;
     font-family: YuGothic
 }
